@@ -1,0 +1,20 @@
+13.36.15
+
+not able to update location website
+
+
+=================================
+
+smj ni aya singleUpload kya karta hai routes main
+
+skill upload ni hua
+
+resume name change krna hai -> profile ->73rd line
+
+resume ni chalrhaa
+
+signup k bad jab login component pe navigate krre hai toh loading component ghum raha hai
+
+company controller m file nahi aari
+
+student ki skills ek hi block m aari hai -- profile m
